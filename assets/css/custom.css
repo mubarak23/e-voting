@@ -1,0 +1,84 @@
+body{
+    color: #fff;
+    font-size: 15px;
+    
+}
+section{
+    margin:20px 0 30px 0px;
+}
+
+.jumbotron{
+    background: #bf5a16;
+}
+
+.well{
+    overflow: hidden;
+}
+
+.carousel slide{
+    padding-top: 5px;
+    min-height: 500px;
+    margin-bottom: 60px;
+    
+}
+
+.carousel-caption{
+    z-index: 10;
+    text-align: left;
+    top:20px;
+    right: 10%;
+    font-size: 22px;
+}
+
+.carousel .item{
+    height: :500px;
+    background-color: #777;
+}
+.carousel inner > .item > img{
+    position: absolute;
+    top;0;
+    left: 0;
+    min-width: 100%;
+    height: :500px
+}
+li{
+    text-decoration: none;
+}
+
+/* marketing section*/
+.marketing{
+    
+    padding-top: 20px;
+    text-align: center;
+}
+
+.price strong{
+    font-size: 32px;
+}
+
+.marketing h2{
+    font-weight: normal;
+}
+
+img{
+    height: 180px;
+    width: 180px;
+}
+
+.column{
+    height:150px;
+}
+
+.section{
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.footer{
+    background: #333;
+    color: #fff;
+    height: 70px;text-align:center;
+    padding-top: 20px;
+    
+}
